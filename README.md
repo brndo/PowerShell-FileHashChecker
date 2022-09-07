@@ -21,10 +21,10 @@ The available Algorithms in the Get-FileHash cmdlet are:
 
 If the hashes match, you will get a message that states this along with showing the values of each hash:
 
-                Hashes match:
-                Computed Hash
-                C3396B065CAE3078DDD9F70899AE89AE21A02ACDCD1667D32951F9060EA7D120
-                Provided Hash:
-                c3396b065cae3078ddd9f70899ae89ae21a02acdcd1667d32951f9060ea7d120
+    Hashes match:
+    Computed Hash
+    C3396B065CAE3078DDD9F70899AE89AE21A02ACDCD1667D32951F9060EA7D120
+    Provided Hash:
+    c3396b065cae3078ddd9f70899ae89ae21a02acdcd1667d32951f9060ea7d120
 
 Otherwise it will throw an error saying the don't match.
